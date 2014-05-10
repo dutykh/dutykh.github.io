@@ -1,6 +1,4 @@
 
 ## Acknowledgements
 
-In my blog I use Lanyon theme by **Mark Otto**
-
-<3
+In my blog I use Lanyon theme developed by **Mark Otto**
