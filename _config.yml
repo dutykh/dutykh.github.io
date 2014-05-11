@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            Denys DUTYKH's
 tagline:          'Blog of an applied mathematician'
-description:      'This blog is based on <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme <a href="https://github.com/mdo" target="_blank">Lanyon</a>.'
+description:      'This blog is built on <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme <a href="https://github.com/poole/lanyon/" target="_blank">Lanyon</a> developed by <a href="https://github.com/mdo/" target="_blank">mdo</a>.'
 url:              http://www.denys-dutykh.com/
 
 author:
