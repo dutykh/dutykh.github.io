@@ -6,14 +6,14 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Denys Dutykh
+title:            Denys DUTYKH's
 tagline:          'Blog of an applied mathematician'
-description:      'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://lanyon.getpoole.com
+description:      'This blog is based on <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme <a href="https://github.com/mdo" target="_blank">Lanyon</a>.'
+url:              http://www.denys-dutykh.com/
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Denys Dutykh'
+  url:            http://www.denys-dutykh.com/
 
 paginate:         5
 
