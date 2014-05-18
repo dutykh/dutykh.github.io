@@ -12,7 +12,7 @@ Currently I am working at [CNRS](http://www.cnrs.fr/insmi/), my office being loc
 In the past I've been working at the following organizations:
 
 * [Centre de Mathématiques et de Leurs Applications](http://www.cmla.ens-cachan.fr/) and [ENS de Cachan](http://www.ens-cachan.fr/) (*2004 - 2008*)
-* University College Dublin (*2012 - 2013*)
+* [School of Mathematical Sciences](http://www.ucd.ie/mathsciences/), [University College Dublin](http://www.ucd.ie/) (*2012 - 2013*)
 
 You can find the complete list of my works on this web-page:  
 
