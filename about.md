@@ -5,12 +5,9 @@ title: About
 
 ![My photo](/public/pics/LacAnnecy_DD.jpg)
 
-<p class="message">
-  Hey there! You are on the blog of Denys Dutykh (PhD, Hab.), an applied mathematician working in the fields of hydrodynamics and scientific computing for wave propagation problems.
-</p>
-<p class="message">
-  This blog will contain essentially some information/thoughts stemming from my research activities.
-</p>
+Hey there! You are on the blog of Denys Dutykh (PhD, Hab.), an applied mathematician working in the fields of hydrodynamics and scientific computing for wave propagation problems.
+
+This blog will contain essentially some information/thoughts stemming from my research activities.
 
 Currently I am working at [CNRS](http://www.cnrs.fr/insmi/), my office being located at the [Laboratory of Mathematics](http://lama.univ-savoie.fr/index.php) (LAMA), [University of Savoie](http://www.univ-savoie.fr/), France.
 
