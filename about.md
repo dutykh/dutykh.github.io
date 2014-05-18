@@ -3,9 +3,7 @@ layout: page
 title: About
 ---
 
-<div>
 ![My photo](/public/pics/LacAnnecy_DD.jpg)
-</div>
 
 **Hey there!** You are on the blog of Denys Dutykh (PhD, Hab.), an *applied mathematician* working in the fields of hydrodynamics and scientific computing for wave propagation problems. This blog will contain essentially some information/thoughts stemming from my research activities.
 
