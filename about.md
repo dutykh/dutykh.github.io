@@ -11,12 +11,16 @@ Currently I am working at [CNRS](http://www.cnrs.fr/insmi/), my office being loc
 
 In the past I've been working at the following organizations:
 
-* [Centre de Mathématiques et de Leurs Applications](http://www.cmla.ens-cachan.fr/) and [ENS de Cachan](http://www.ens-cachan.fr/) (*2004 - 2008*)
+* [Centre de Mathématiques et de Leurs Applications (CMLA)](http://www.cmla.ens-cachan.fr/) and [Ecole Normale Supérieure de Cachan](http://www.ens-cachan.fr/) (*2004 - 2008*)
 * [School of Mathematical Sciences](http://www.ucd.ie/mathsciences/), [University College Dublin](http://www.ucd.ie/) (*2012 - 2013*)
 
 You can find the complete list of my works on this web-page:  
 
 * [www.denys-dutykh.com](http://www.denys-dutykh.com/)
+
+## Thanks for reading!
+
+======
 
 ### Acknowledgements
 
@@ -26,5 +30,3 @@ This web site is built using the following technologies:
 * [Lanyon theme](http://lanyon.getpoole.com/)
 * Hosted for free on [GitHub Pages](https://pages.github.com)
 * Coded with [Sublime Text 3](http://sublimetext.com)
-
-## Thanks for reading!
