@@ -3,6 +3,8 @@ layout: page
 title: About
 ---
 
+[My photo](https://github.com/dutykh/dutykh.github.io/blob/master/public/pics/LacAnnecy_DD.jpg)
+
 <p class="message">
   Hey there! You are on the blog of Denys Dutykh (PhD, Hab.), an applied mathematician working in the fields of hydrodynamics and scientific computing for wave propagation problems.
 </p>
