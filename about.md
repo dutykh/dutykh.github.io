@@ -9,6 +9,11 @@ title: About
 
 Currently I am working at [CNRS](http://www.cnrs.fr/insmi/), my office being located at the [Laboratory of Mathematics](http://lama.univ-savoie.fr/index.php) (LAMA), [University of Savoie](http://www.univ-savoie.fr/), France.
 
+In the past I've been working at the following organizations:
+
+* [Centre de Mathématiques et de Leurs Applications](http://www.cmla.ens-cachan.fr/) and [ENS de Cachan](http://www.ens-cachan.fr/) (*2004 - 2008*)
+* University College Dublin (*2012 - 2013*)
+
 You can find the complete list of my works on this web-page:  
 
 * [www.denys-dutykh.com](http://www.denys-dutykh.com/)
