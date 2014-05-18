@@ -4,27 +4,24 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Hey there! You are on the blog of Denys DUTYKH (PhD, Hab.), an applied mathematician working in the fields of hydrodynamics and scientific computing for wave propagation problems.  
+
+  This blog will contain essentially some information/thoughts stemming from my research activities.
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Currently I am working at [CNRS](http://www.cnrs.fr/insmi/), my office being located at the [Laboratory of Mathematics](http://lama.univ-savoie.fr/index.php) (LAMA), [University of Savoie](http://www.univ-savoie.fr/), France.
 
-There are currently two themes built on Poole:
+You can find the complete list of my works on this web-page:  
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+* [www.denys-dutykh.com](http://www.denys-dutykh.com/)
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+### Acknowledgements
 
-## Setup
+This blog is built on the following technologies:
 
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+* [Jekyll](http://jekyllrb.com)
+* [Lanyon theme](http://lanyon.getpoole.com/)
+* Hosted for free on [GitHub Pages](https://pages.github.com)
+* Coded with [Sublime Text 3](http://sublimetext.com)
 
 Thanks for reading!
