@@ -18,7 +18,7 @@ You can find the complete list of my works on this web-page:
 
 ### Acknowledgements
 
-This blog is built on the following technologies:
+This web site is built using the following technologies:
 
 * [Jekyll](http://jekyllrb.com)
 * [Lanyon theme](http://lanyon.getpoole.com/)
