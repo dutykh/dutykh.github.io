@@ -20,7 +20,7 @@ You can find the complete list of my works on this web-page:
 
 ## Thanks for reading!
 
-======
+------
 
 ### Acknowledgements
 
