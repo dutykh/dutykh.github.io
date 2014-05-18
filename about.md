@@ -4,8 +4,9 @@ title: About
 ---
 
 <p class="message">
-  Hey there! You are on the blog of Denys DUTYKH (PhD, Hab.), an applied mathematician working in the fields of hydrodynamics and scientific computing for wave propagation problems.  
-
+  Hey there! You are on the blog of Denys Dutykh (PhD, Hab.), an applied mathematician working in the fields of hydrodynamics and scientific computing for wave propagation problems.
+</p>
+<p class="message">
   This blog will contain essentially some information/thoughts stemming from my research activities.
 </p>
 
@@ -24,4 +25,4 @@ This blog is built on the following technologies:
 * Hosted for free on [GitHub Pages](https://pages.github.com)
 * Coded with [Sublime Text 3](http://sublimetext.com)
 
-Thanks for reading!
+## Thanks for reading!
