@@ -22,7 +22,7 @@ You can find the complete list of my works on this web-page:
 
 If you have any questions/comments, please contact me at:
 
-* **Denys** . **Dutykh** @ **univ-savoie** . **fr**
+* **Denys . Dutykh @ univ-savoie . fr**
 
 (don't forget to remove the spaces!)
 
