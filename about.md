@@ -20,6 +20,12 @@ You can find the complete list of my works on this web-page:
 
 ## Thanks for reading!
 
+If you have any questions/comments, please contact me at:
+
+* Denys . Dutykh @ univ-savoie . fr
+
+(don't forget to remove the spaces!)
+
 ------
 
 ### Acknowledgements
