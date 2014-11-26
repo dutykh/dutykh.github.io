@@ -26,6 +26,8 @@
     {% endfor %}
 
     <a class="sidebar-nav-item" href="http://www.denys-dutykh.com/" target="_blank">My research web page</a>
+
+    <a class="sidebar-nav-item" href="http://dutykh.github.io/atom.xml" target="_blank">Blog RSS feed</a>
   </nav>
 
   <div class="sidebar-item">
