@@ -3,7 +3,7 @@ layout: post
 title: Water waves in bifurcating channels
 ---
 
-In collaboration with [Jean-Guy Caputo](http://lmi.insa-rouen.fr/membres/10-membres/maitres-de-conference/20-caputo-jean-guy.html/) we continue our investigations on nonlinear waves interacting with branching channels. The previous work was devoted to the sine-Gordon kink dynamics, while nowadays we turn our attention to more classical waves. Namely, we consider the propagation of a solitary wave through a branching channel. Here are some preliminary simulations:
+In collaboration with [Jean-Guy Caputo](http://lmi.insa-rouen.fr/membres/10-membres/maitres-de-conference/20-caputo-jean-guy.html/) we continue our investigations on nonlinear waves interacting with branching channels. The previous work was devoted to the [sine-Gordon](http://en.wikipedia.org/wiki/Sine-Gordon_equation/) kink dynamics, while nowadays we turn our attention to more classical waves. Namely, we consider the propagation of a solitary wave through a branching channel. Here are some preliminary simulations:
 
 * Y-junction (with 90° angle)
 
