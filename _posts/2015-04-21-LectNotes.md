@@ -7,7 +7,9 @@ With this post I would like to release the draft of my Lecture notes that I've b
 
 * [https://github.com/dutykh/hydro/](https://github.com/dutykh/hydro/)
 
-I hope that even in the current preliminary version it might be already useful. Please, note that it is the **work in progress**. So, this file will be constantly evolving (almost on the daily basis). Consequently, the potential readers are invited to consult the corresponding GitHub repository for a newer version.
+I hope that even in the current preliminary version it might be already useful for the interested reader. Please, note that it is the **work in progress**. So, this file will be constantly evolving (almost on the daily basis). Consequently, the potential readers are invited to consult the corresponding GitHub repository for a newer version.
+
+Any comments/remarks/propositions are welcome!
 
 Have a nice reading!
 
