@@ -10,3 +10,5 @@ Recently I put on [GitHub](https://github.com/) the [Matlab](http://www.mathwork
 Special thanks go to [Bernard Ee](https://www.researchgate.net/profile/Bernard_Ee2) and [Lev Shemer](http://www.eng.tau.ac.il/~shemer/) from [Tel Aviv University](http://english.tau.ac.il/) who helped me in initializing these computations with the [Peregrine breather](http://en.wikipedia.org/wiki/Peregrine_soliton).
 
 ![Peregrine breather](public/pics/PB_shot.png)
+
+---

@@ -22,3 +22,5 @@ Hope to post some further results soon!
 There is also an available 3D animation for the Y-junction case with longer simulation time showing several reflections inside the channel (*please, don't hesitate to open the window to the full screen*):
 
 <iframe width="480" height="360" src="http://www.youtube.com/embed/2L6HmZsiNqg" frameborder="0"> </iframe>
+
+---

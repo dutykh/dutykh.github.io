@@ -8,3 +8,5 @@ Recently in collaboration with [Daulet Moldabayev](http://www.uib.no/persons/Dau
 This preprint can be accessed through the [arxiv.org](http://arxiv.org/) server:
 
 * D. Moldabayev, H. Kalisch & **D. Dutykh**. [The Whitham Equation as a Model for Surface Water Waves](http://arxiv.org/abs/1410.8299). Submitted, 2014
+
+---

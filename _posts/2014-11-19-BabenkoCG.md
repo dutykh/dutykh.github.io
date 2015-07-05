@@ -10,3 +10,5 @@ We developed a new formulation, but also a new algorithm (based specifically on 
 More examples can be found in our preprint which has just been submitted:
 
 * D. Clamond, **D. Dutykh** & A. Duran. [A plethora of generalised solitary gravity-capillary water waves](https://hal.archives-ouvertes.fr/hal-01081798/). Submitted, 2014
+
+---

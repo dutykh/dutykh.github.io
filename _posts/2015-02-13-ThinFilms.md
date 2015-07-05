@@ -10,3 +10,5 @@ I am getting also interested in the dynamics of thin films which flow down the v
 We solve the so-called Shkadov's model (also known as the viscid Saint-Venant equations) in a periodic domain using the finite volume method (Rusanov flux is used). The dispersive term is discretized using the central finite differences. The semi-discrete model is solved in time with an adaptive Runge-Kutta scheme.
 
 A research direction to be continued!
+
+---

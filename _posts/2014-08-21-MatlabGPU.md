@@ -25,3 +25,5 @@ This modest speed-up can be explained by the following reasons:
 * the gain in speed is annihilated by the cost of memory transfer to/from GPU
 
 The profiling results seem to favour the latter explanation.
+
+---

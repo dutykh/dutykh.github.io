@@ -14,3 +14,5 @@ Please, note that it is a work in progress. So, it should be considered only as 
 I hope you will find some inspiration in the books which inspired me some time ago. Have a nice reading and, of course, any comments/remarks/propositions are welcome!
 
 ![Library](/public/pics/Library.jpg)
+
+---

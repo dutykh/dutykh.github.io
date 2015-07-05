@@ -10,3 +10,5 @@ In particular, we investigated the nonlinear dynamics of unstable (periodic) *cn
 You can find more details on the obtained results in our preprint available at the [HAL](http://hal.archives-ouvertes.fr/) server:
 
 * D. Mitsotakis, **D. Dutykh**, J.D. Carter. [On the nonlinear dynamics of the traveling-wave solutions of the Serre equations](http://hal.archives-ouvertes.fr/hal-00984035), Submitted, 2014
+
+---

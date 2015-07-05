@@ -12,3 +12,5 @@ With my collaborators from the [Institute of Physics](http://www.iop.kiev.ua/ind
 More information can be found in the final version of our manuscript devoted to these questions:
 
 * I. Gandzha, Yu. Sedletsky & **D. Dutykh**. [High-order nonlinear Schrödinger equation for the envelope of slowly modulated gravity waves on the surface of finite-depth fluid and its quasi-soliton solutions](https://hal.archives-ouvertes.fr/hal-01084747/). Accepted to [Ukr. J. Phys.](http://ujp.bitp.kiev.ua/), 2014
+
+---
