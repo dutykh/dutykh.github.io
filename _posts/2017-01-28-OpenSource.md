@@ -3,7 +3,7 @@ layout: post
 title: Open source problems
 ---
 
-I would like to share with you a pretty interesting talk given by [William Stein](http://wstein.org/), who is the main developer in the [SageMath](http://www.sagemath.org/) project. You can watch the video here:
+I would like to share with you a pretty interesting talk given by [William Stein](http://wstein.org/), who is the creator and the main developer in the [SageMath](http://www.sagemath.org/) open source project. You can watch the video here:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6eIoYMB_0Xc" frameborder="0" allowfullscreen></iframe>
 
