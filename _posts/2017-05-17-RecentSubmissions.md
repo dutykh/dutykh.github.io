@@ -32,6 +32,6 @@ This is already the third preprint in this direction. Moreover, we started a new
 
 ### Nota bene:
 
-It goes without saying that all preprints are freely available through HAL server. The links are provided above.
+It goes without saying that all preprints are freely available through [HAL](https://hal.archives-ouvertes.fr/) server. The links are provided above.
 
 ---
